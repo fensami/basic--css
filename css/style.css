@@ -1,0 +1,12 @@
+h3{
+    color: magenta;
+}
+header{
+    height: 200px;
+    width: 40%;
+    /* background-image: url('baby.jpg.png'); */
+    background-image: url(../baby3.jpg);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
